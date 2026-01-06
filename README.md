@@ -1,57 +1,49 @@
-# Hi, I'm Jesus 👋
+# Hi, I'm Jesus
 
-**Data & ML Engineer** with a strong focus on **applied machine learning, automation, and analytics**.  
-I enjoy building data-driven solutions that create real operational impact.  
-**Tech entrepreneur** with experience turning ideas into working systems.
-
----
-
-## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Data Science](https://img.shields.io/badge/Data%20Science-0A66C2)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-555555)
+
+**Data Scientist with a strong path toward Machine Learning Engineering**, with over **4 years of experience** designing, developing, and leading AI-driven solutions for the **mining and steel industries**.
+
+My work focuses on applying **data science and machine learning** to improve **safety, productivity, and operational efficiency** in industrial environments.
 
 ---
 
-## 💡 What I Do
-- Design and build **machine learning models** for real-world problems
-- Develop **automation and ETL pipelines** in Python
-- Transform raw data into **actionable insights**
-- Build and experiment with **data-driven products**
+## 🧠 Professional Profile
+
+I have hands-on experience building **predictive models**, analyzing **large-scale datasets**, and deploying **AI-based solutions** in real-world production settings. My background spans **supervised and unsupervised learning**, **hyperparameter optimization**, and **deep learning**, with a strong emphasis on model reliability and impact.
+
+I have developed machine learning solutions using **PyTorch** and **TensorFlow**, worked with **cloud platforms (AWS, Azure, Google Cloud)**, and designed end-to-end data workflows involving **databases, statistical analysis, and Python-based applications**.
+
+Beyond modeling, I have experience collaborating across disciplines, translating operational problems into data-driven solutions, and contributing to projects that operate under **strict safety and reliability constraints**.
 
 ---
 
-## 📌 Featured Projects
-*(Selected public projects that showcase my technical skills)*
-
-- 🔹 **Predictive Maintenance (ML)**  
-  Machine learning models to anticipate equipment failures using structured and time-series data.
-
-- 🔹 **Healthcare ML Prediction**  
-  End-to-end ML pipeline for medical outcome prediction using classical ML techniques.
-
-- 🔹 **Data & ETL Automation**  
-  Python-based pipelines for data ingestion, transformation, and analytics.
-
-> ⚠️ *Professional and corporate projects are kept private due to confidentiality.*
+## 🔧 Core Expertise
+- Data Science & Machine Learning
+- Predictive Modeling & Statistical Analysis
+- Supervised & Unsupervised Learning
+- Deep Learning (PyTorch, TensorFlow)
+- Data Pipelines & Automation (Python)
+- Cloud-based ML Solutions (AWS, Azure, GCP)
 
 ---
 
-## 🧠 Mindset
-- Strong engineering fundamentals  
-- Focus on **clarity, reproducibility, and impact**  
-- Builder mentality: from idea → prototype → solution  
+## 🚀 Current Interests
+I am particularly motivated by:
+- **Machine Learning Engineering** practices
+- **Generative AI** applied to industrial use cases
+- **Computer Vision** for safety and operational monitoring
+- Scalable and production-ready ML systems
+
+My long-term goal is to continue evolving toward **ML Engineer roles**, focusing on building robust, maintainable, and impactful machine learning systems.
 
 ---
 
 ## 📫 Contact
-- **LinkedIn:** https://www.linkedin.com/in/your-link-here  
-- **Email:** your.email@example.com
-
----
-
-⭐ Feel free to explore my repositories or reach out for collaboration.
+- **Email:** jesus.sullon@utec.edu.pe  
+- **LinkedIn:** https://www.linkedin.com/in/jesussullon
